@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Hi, I'm Prishita 👋
+<p align="center">
+  <img src="/Images/name.gif" width="500" height="350" />
+</p>
 <!--
 **prishitakadam/prishitakadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
