@@ -15,7 +15,7 @@
    <li> Discord : catastrophe#5422</li>
    <li> LinkedIn : https://www.linkedin.com/in/prishitakadam/ </li><br>
   </ul>
-  <li>✨ Fun fact : My name actually means <i>a person sent by god</i> in Sanskrit!</li><br>
+  <li>✨ Fun fact : My name <i>Prishita</i> actually means <i>a person sent by god</i> in Sanskrit!</li><br>
  </ul><br>
  
  ![Prishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=prishitakadam&show_icons=true&theme=radical)
