@@ -8,7 +8,6 @@
 <li>💽 My current area of focus is Databases.</li><br>
 <li> ⌨️ I love to code and innovate new things.</li><br>
 <li> 🤖 I have a paper published in the domain of AI in Medicine.</li><br>
-<li> 💼 My previous internships and projects have not only enabled to learn new things but also helped me to solve real world problems.</li><br>
 <li> 👩🏻‍💻 I have worked with C++, Python, Java, HTML, CSS, SQL, JavaScript, TensorFlow, Git, Flask.</li><br>
 <li> 📫 How to reach me: </li>
  <ul>
