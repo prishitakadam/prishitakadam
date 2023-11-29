@@ -17,7 +17,7 @@
   <li>✨ Fun fact : <i>Prishita</i> actually means <i>a person sent by god</i> in Sanskrit!</li><br>
  </ul><br>
  
- ![Prishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=prishitakadam&show_icons=true&theme=radical)
+
 <!--
 **prishitakadam/prishitakadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
