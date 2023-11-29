@@ -5,10 +5,10 @@
 <br><br>
 <ul>
   <li>🧩 I love to solve problems and learn new technologies.</li><br>
-<li>💽 My current area of focus is Databases.</li><br>
+<li>💽 My current area of focus is hardware and security.</li><br>
 <li> ⌨️ I love to code and innovate new things.</li><br>
-<li> 🤖 I have a paper published in the domain of AI in Medicine.</li><br>
-<li> 👩🏻‍💻 I have worked with C++, Python, Java, HTML, CSS, SQL, JavaScript, TensorFlow, Git, Flask.</li><br>
+<li> 🤖 I have a paper published in the domain of indexing for disintegrated memory and AI in Medicine .</li><br>
+<li> 👩🏻‍💻 I have worked with C++, Python, Java, JavaScript, TensorFlow, Git, Flask, Pytorch, FastAPI, Playwright.</li><br>
 <li> 📫 How to reach me: </li>
  <ul>
    <li> Discord : catastrophe#5422</li>
